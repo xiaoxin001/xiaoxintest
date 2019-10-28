@@ -1,0 +1,11 @@
+{
+    "name": "oyxx/xiaoxintest1",
+    "authors": [
+        {
+            "name": "ouyangxiaoxin",
+            "email": "ouyangxx@ejiayou.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
